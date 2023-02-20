@@ -12,7 +12,7 @@
 > https://mahdi-hadi.shinyapps.io/groundwater
 <p align="center"> 
   <kbd>
-    <a  target="_blank"><img src="www/gwater.png">
+    <a  target="_blank"><img src="www/exam.png">
   </a>
   </kbd>
 </p>
