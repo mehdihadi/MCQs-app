@@ -17,4 +17,12 @@
   </kbd>
 </p>
 
+## Features 📋
+⚡️ Schedule exam by teacher
+⚡️ Define authentication information for students
+⚡️ Loading the exam automaticaly exactly at the scheduled time.
+⚡️ Marking of examination papers automaticaly
+⚡️ Sending the students marks to the teacher phone number by SMS.
+
+
 :star: Star me on GitHub — it helps!
